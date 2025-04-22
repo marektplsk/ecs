@@ -1,0 +1,7 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata/
+*.o
+*.exe
+.DS_Store
